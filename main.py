@@ -34,7 +34,7 @@ def errorCollection(update, context):
 
 
 def main():
-    updater = Updater("1832630242:AAG5TZ1eqavKKmh5fcCiSZEdonbqCbis-Xo", use_context=True)
+    updater = Updater("your bot token here", use_context=True)
     dp = updater.dispatcher
 
     dp.add_handler(CommandHandler("start", start_command))
