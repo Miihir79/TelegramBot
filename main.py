@@ -44,7 +44,7 @@ def errorCollection(update, context):
     print(f'Update {update} caused error {context.error}')
 
 
-API_KEY = "118DB0CD-105C-4F12-9532-81A626E6A16C"
+API_KEY = "your api key here"
 
 
 def get_crypto_data(currencyFun="USD", crypto="BTC", invert='true'):
