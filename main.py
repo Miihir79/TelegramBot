@@ -8,7 +8,7 @@ def sample_responses(input_text):
     user_message = str(input_text).lower()
 
     if user_message in ("hello", "hi", "hey", "sup", "supp", "hola"):
-        return "Hey! whats up?"
+        return "Hey! mihir here whats up?"
     if user_message in ("time", "date", "time?", "date?"):
         systemTime = datetime.now().strftime("%d/%m/%y , %H:%M:%S")
         return systemTime
