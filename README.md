@@ -1,5 +1,5 @@
 # TelegramBot
-A bot in telegram which provides crypto prices.
+A bot in telegram which provides crypto prices through preset commands, I aim to improve it by adding more crypto currencies and  even normal currency exchnage rates along with graphs.
 
 
 # What do you need to get started?
